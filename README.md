@@ -1,6 +1,4 @@
-# Photo Viewer Sample
-This is the sample of Clean Architecture in Real Conditions
-
+# Photo Viewer
 This project has been influenced by:
 
 **1. Uncle Bob**
@@ -30,7 +28,3 @@ This project has been influenced by:
 ***Unit Testing:*** Mockito
 
 ***Functional testing:*** Cucumber + PageObject via Espresso
-
-**2. Next steps:**
-
-a. Integrate with Flickr + more functions
